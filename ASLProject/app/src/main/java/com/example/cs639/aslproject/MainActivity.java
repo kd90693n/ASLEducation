@@ -29,6 +29,11 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
+    public void viewNumbersActivity(View view) {
+        Intent intent = new Intent(this, Numbers.class);
+        startActivity(intent);
+    }
+
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {

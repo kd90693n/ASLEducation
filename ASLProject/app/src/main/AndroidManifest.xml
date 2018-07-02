@@ -27,6 +27,10 @@
             android:name=".Words"
             android:label="@string/title_activity_words"
             android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Numbers"
+            android:label="@string/title_activity_numbers"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
