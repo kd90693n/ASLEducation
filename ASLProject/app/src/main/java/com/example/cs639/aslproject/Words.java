@@ -25,22 +25,16 @@ public class Words extends AppCompatActivity {
             "Yes",
             "No",
             "Please",
-            "Thanks",
-            "Who",
-            "What",
-            "When"
+            "Thanks"
     };
     Integer[] word_images = {
-            R.drawable.number_0,
-            R.drawable.number_1,
-            R.drawable.number_2,
-            R.drawable.number_3,
-            R.drawable.number_4,
-            R.drawable.number_5,
-            R.drawable.number_6,
-            R.drawable.number_7,
-            R.drawable.number_8,
-            R.drawable.number_9
+            R.drawable.travel_words_hello,
+            R.drawable.travel_words_goodbye,
+            R.drawable.travel_words_nice_to_meet_you,
+            R.drawable.travel_words_yes,
+            R.drawable.travel_words_no,
+            R.drawable.travel_words_please,
+            R.drawable.travel_words_thanks
     };
 
 

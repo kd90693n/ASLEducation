@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@android:color/white"
     tools:context=".MainActivity"
     tools:showIn="@layout/activity_main">
 
@@ -61,7 +62,7 @@
                     android:onClick="viewNumbersActivity"
                     android:paddingBottom="10dp"
                     android:paddingTop="10dp"
-                    android:src="@drawable/coming_soon_left"
+                    android:src="@drawable/numbers_button"
                     tools:layout_editor_absoluteX="115dp"
                     tools:layout_editor_absoluteY="105dp" />
 
