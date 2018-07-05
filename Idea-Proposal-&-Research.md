@@ -22,7 +22,7 @@ These are individuals that have control over subjects and materials allowed in t
 **K-12 Educators**
 Provide the knowledge to educators that can bring the same lessons to their students. Principals and teachers have a big influence in voicing and encouraging lesson materials. Private education institutions also have their own funding to train their teachers on professional development courses. The app will be developed to teach students and adults. We will also create a suggested lesson plan for the different levels of education. This should assist in the
 
-****Studen**ts**
+**Students**
 The app will be developed to teach students and adults.
 
 
