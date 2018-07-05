@@ -10,7 +10,8 @@
 
     <ScrollView
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"
+        android:background="#28282d">
 
         <TableLayout
             android:layout_width="match_parent"
@@ -49,6 +50,7 @@
                     tools:layout_editor_absoluteX="115dp"
                     tools:layout_editor_absoluteY="105dp" />
             </TableRow>
+
             <TableRow>
 
                 <ImageButton
@@ -79,6 +81,7 @@
                     tools:layout_editor_absoluteX="115dp"
                     tools:layout_editor_absoluteY="105dp" />
             </TableRow>
+
             <TableRow>
 
                 <ImageButton
@@ -107,6 +110,7 @@
                     tools:layout_editor_absoluteX="115dp"
                     tools:layout_editor_absoluteY="105dp" />
             </TableRow>
+
             <TableRow>
 
                 <ImageButton
