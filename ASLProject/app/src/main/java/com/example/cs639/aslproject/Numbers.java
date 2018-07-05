@@ -30,21 +30,23 @@ public class Numbers extends AppCompatActivity {
             "6",
             "7",
             "8",
-            "9"
+            "9",
+            "10"
 
 
     };
     Integer[] numbers_images = {
-            R.drawable.number_0,
-            R.drawable.number_1,
-            R.drawable.number_2,
-            R.drawable.number_3,
-            R.drawable.number_4,
-            R.drawable.number_5,
-            R.drawable.number_6,
-            R.drawable.number_7,
-            R.drawable.number_8,
-            R.drawable.number_9
+            R.drawable.numbers_0,
+            R.drawable.numbers_1,
+            R.drawable.numbers_2,
+            R.drawable.numbers_3,
+            R.drawable.numbers_4,
+            R.drawable.numbers_5,
+            R.drawable.numbers_6,
+            R.drawable.numbers_7,
+            R.drawable.numbers_8,
+            R.drawable.numbers_9,
+            R.drawable.numbers_10
     };
 
 

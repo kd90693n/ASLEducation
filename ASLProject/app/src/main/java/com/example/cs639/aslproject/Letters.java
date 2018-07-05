@@ -30,7 +30,7 @@ public class Letters extends AppCompatActivity {
             "h",
             "i",
             "j",
-            /*"k",
+            "k",
             "l",
             "m",
             "n",
@@ -46,20 +46,36 @@ public class Letters extends AppCompatActivity {
             "x",
             "y",
             "z"
-          */
+
 
     };
     Integer[] alphabet_images = {
-            R.drawable.number_0,
-            R.drawable.number_1,
-            R.drawable.number_2,
-            R.drawable.number_3,
-            R.drawable.number_4,
-            R.drawable.number_5,
-            R.drawable.number_6,
-            R.drawable.number_7,
-            R.drawable.number_8,
-            R.drawable.number_9
+            R.drawable.letters_a,
+            R.drawable.letters_b,
+            R.drawable.letters_c,
+            R.drawable.letters_d,
+            R.drawable.letters_e,
+            R.drawable.letters_f,
+            R.drawable.letters_g,
+            R.drawable.letters_h,
+            R.drawable.letters_i,
+            R.drawable.letters_j,
+            R.drawable.letters_k,
+            R.drawable.letters_l,
+            R.drawable.letters_m,
+            R.drawable.letters_n,
+            R.drawable.letters_o,
+            R.drawable.letters_p,
+            R.drawable.letters_q,
+            R.drawable.letters_r,
+            R.drawable.letters_s,
+            R.drawable.letters_t,
+            R.drawable.letters_u,
+            R.drawable.letters_v,
+            R.drawable.letters_w,
+            R.drawable.letters_x,
+            R.drawable.letters_y,
+            R.drawable.letters_z
     };
 
 
