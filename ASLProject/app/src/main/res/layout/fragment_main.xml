@@ -61,7 +61,7 @@
                     android:onClick="viewNumbersActivity"
                     android:paddingBottom="10dp"
                     android:paddingTop="10dp"
-                    android:src="@drawable/coming_soon_left"
+                    android:src="@drawable/numbers_button"
                     tools:layout_editor_absoluteX="115dp"
                     tools:layout_editor_absoluteY="105dp" />
 
